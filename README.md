@@ -11,7 +11,7 @@
 ##Desafio Prata
 
 ###1) Busque outros tipos de mídias (música, podcast, ebook);
-###2) Mostre o resultado separado em sessões dentro da UITableView, as quais são identificadas pelo tipo da mídia.
+###2) Mostre o resultado separado em seções dentro da UITableView, as quais são identificadas pelo tipo da mídia.
 ###3) Usar um navigation bar para quando selecionar uma celula mostrar todos os detalhes da mídia. Back deve voltar para a lista.
 
 ##Desafio Ouro
