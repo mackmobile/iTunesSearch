@@ -5,14 +5,13 @@
 ###1) Permita que o usuário veja mais informações na célula sobre a mídia procurada;
 ###2) Adicione no cabeçalho da tabela um campo de texto e um botão para que o usuário escolha o termo a ser procurado.
 ###3) Use os recursos de internacionalização para permitir que o botão exiba a palavra Buscar, Search e Recherche para os idiomas Português, Inglês e Francês
-###4) Permitir o uso de expressões regulares para a busca de mídias (NSRegularExpression)
-
+###4) Usar um navigation bar para quando selecionar uma celula mostrar todos os detalhes da mídia. Back deve voltar para a lista.
 
 ##Desafio Prata
 
 ###1) Busque outros tipos de mídias (música, podcast, ebook);
 ###2) Mostre o resultado separado em seções dentro da UITableView, as quais são identificadas pelo tipo da mídia.
-###3) Usar um navigation bar para quando selecionar uma celula mostrar todos os detalhes da mídia. Back deve voltar para a lista.
+###3) Permitir o uso de expressões regulares para a busca de mídias (NSRegularExpression)
 
 ##Desafio Ouro
 
